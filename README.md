@@ -5,7 +5,7 @@
 This project aims to provide a user-friendly platform for predicting the likelihood of heart disease based on various health and lifestyle inputs. By leveraging advanced machine learning algorithms, our website helps users assess their risk factors and gain valuable insights into their heart health.
 
 # Demo
-
+![Demo](https://github.com/ifraaa/heart-disease-prediction-webapp/blob/main/demo.mp4)
 ## Prerequisites
 
 - Python 3.x.
